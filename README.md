@@ -9,9 +9,9 @@
 | Dataset ID | `824259` |
 | Location | Grand Rapids-Wyoming-Kentwood, MI |
 | Category | Restaurants |
-| Full dataset size | 14 records |
-| Free sample size | 1 records (7.14%) |
-| Last export | 2026-04-08T02:51:53.429137+00:00 |
+| Full dataset size | 8 records |
+| Free sample size | 1 records (12.5%) |
+| Last export | 2026-04-15T07:59:16.494476+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-grand-rapids-wyoming-kentwood-metro-area-mi-us-sample-824259/releases/download/sample-latest/beamstation_824259_restaurants-us-grandrapidswyomingkentwoodmi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
