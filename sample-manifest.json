@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8a9a60bc-21af-4065-a3e4-93cfa170068e",
+  "export_job_id": "75503346-ddf0-454e-9275-fee4aef95759",
   "id_short": 824259,
-  "published_at": "2026-04-16T19:20:18Z",
+  "published_at": "2026-04-19T07:40:06Z",
   "repo_name": "tech-ready-restaurants-in-the-grand-rapids-wyoming-kentwood-metro-area-mi-us-sample-824259",
   "sample_asset_name": "beamstation_824259_restaurants-us-grandrapidswyomingkentwoodmi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/824259/beamstation_824259_restaurants-us-grandrapidswyomingkentwoodmi_SAMPLE_DIST.csv",
   "sample_records": 1,
   "sample_sha256": "651cdab0a156984bcee7a49129bc01938b081131ea1e114714ae97d73e97ae3b",
   "sample_size_bytes": 20368,
-  "total_records": 14
+  "total_records": 8
 }
