@@ -6,7 +6,7 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in the Grand Rapids-Wyoming-Kentwood Metro Area, MI, US",
-  "export_job_id": "d448aacb-a12f-40ae-ba03-f56f3cf25ee2",
+  "export_job_id": "54d14436-c81a-49fb-ae0b-fa71c47b93f1",
   "github_org": "Beamstation-Datasets",
   "id_short": 824259,
   "location_name": "Grand Rapids-Wyoming-Kentwood, MI",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/824259/beamstation_824259_restaurants-us-grandrapidswyomingkentwoodmi_SAMPLE_DIST.csv",
   "sample_pct": 12.5,
   "sample_records": 1,
-  "sample_sha256": "006b83e6a5d2bab7283860b2dc4543ab7e411f354833f7e1cff8b2d29c1c5abb",
-  "sample_size_bytes": 20333,
+  "sample_sha256": "d11157322992f77540384ddd26b8d71c4fcad169906cd9930946bbf8c0fb9a8e",
+  "sample_size_bytes": 19737,
   "total_records": 8,
-  "updated_at": "2026-04-22T15:11:14.496610+00:00"
+  "updated_at": "2026-04-29T15:28:57.823679+00:00"
 }
